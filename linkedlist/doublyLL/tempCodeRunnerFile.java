@@ -1,0 +1,1 @@
+// Node flattenedHead=flatten(a);
